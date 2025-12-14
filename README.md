@@ -1,5 +1,5 @@
 # TDD-Kata-Sweet-Shop-Management-System
-# 🍬 Sweet Shop Management System
+# 🍬 SweetSuite
 
 ## 📖 Project Description
 The **Sweet Shop Management System** is a full-stack web application developed using **Test-Driven Development (TDD)** principles.  
